@@ -1,0 +1,18 @@
+.total-align{
+    width: 50%;
+    text-align: center;
+    border: 2mm black solid;
+    border-radius: 2%;
+    float: left;
+    background-color: bisque;
+}
+.content{
+    text-align: center;
+     padding-bottom: 7%;
+    /* padding-right: 40%;  */
+    width: 45%;
+    border: 2mm black solid;
+    border-radius: 2%;
+    float: right;
+    background-color: darksalmon;
+    }
